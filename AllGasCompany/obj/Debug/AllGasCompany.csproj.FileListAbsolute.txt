@@ -1,0 +1,66 @@
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\ApplicationInsights.config
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\csc.exe
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\System.Collections.Immutable.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\vbc.exe
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\VBCSCompiler.exe
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\roslyn\VBCSCompiler.exe.config
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\AllGasCompany.dll.config
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\AllGasCompany.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\AllGasCompany.pdb
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Web.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.WindowsServer.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.ApplicationInsights.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Web.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.AI.WindowsServer.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.ApplicationInsights.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.csprojResolveAssemblyReference.cache
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.dll
+c:\users\aft_alumno\documents\visual studio 2015\Projects\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.pdb
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\ApplicationInsights.config
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\csc.exe
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\System.Collections.Immutable.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\System.Reflection.Metadata.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\vbc.exe
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\VBCSCompiler.exe
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\roslyn\VBCSCompiler.exe.config
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\AllGasCompany.dll.config
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\AllGasCompany.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\AllGasCompany.pdb
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.DependencyCollector.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Web.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.WindowsServer.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.ApplicationInsights.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.DependencyCollector.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.Web.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.AI.WindowsServer.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.ApplicationInsights.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.csprojResolveAssemblyReference.cache
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.dll
+D:\Users\Sebastian\Documents\Works\Programación avanzada\Proyecto\Web\AllGasCompany\AllGasCompany\obj\Debug\AllGasCompany.pdb

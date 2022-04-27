@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MPAdmin.master.cs" Inherits="AllGasCompany.masterPage.MPAdmin" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <link href="../css/StyleAdmin.css" rel="stylesheet" />
+    <title></title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+ 
+    <header>
+        
+        <img src="../img/allGasCompany.jpg" style="height: 204px; width: 187px"/>
+        <p><b><i>Administración</i></b></p>
+    </header>
+    <nav id="general">
+        
+            <a href="compras.aspx">COMPRAS</a>  |                         
+        <a href="adminVehiculos.aspx">VEHICULOS</a>  |
+        <a href="reparaciones.aspx">REPARACIONES</a> |
+         <a href="administradores.aspx">ADMINISTRADORES</a> 
+        
+            
+
+        
+        
+        </nav>
+    
+  
+    <section>
+        
+        
+        <asp:ContentPlaceHolder ID="SectionPrincipalAdmin" runat="server">
+        
+        </asp:ContentPlaceHolder>
+
+    </section>
+    <p></p>
+    <p></p>
+    <p></p>
+    <footer>
+        <p> All Gas Company | Todos los derechos reservados</p>
+        <p>Fono: 654468467 | Calle Siempre viva #1234,Antofagasta </p>
+    </footer>
+
+    
+</body>
+</html>

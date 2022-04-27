@@ -1,0 +1,83 @@
+﻿body {
+    font-family: Arial, Helvetica, sans-serif;
+text-align:center;
+}
+header{
+text-align:center;
+background-color:#ffffff;
+margin:0;
+
+}
+
+form{
+    text-align:center;
+}
+
+header p {
+    color:#b200ff;
+}
+
+header img{
+   
+}
+
+footer{
+    background-color:#e95ed9;
+    color:white;
+    text-align:center;
+    font-size: 14px;
+    padding:15px;
+}
+
+nav{
+    background-color:#e95ed9;
+    color:white;
+    text-align:center;
+    padding:15px;
+    
+}
+
+
+nav a {
+    color:white;
+    text-decoration:none;
+}
+
+
+section{
+    background-color:white;
+}
+
+
+
+footer p {
+    height: 11px;
+}
+.tableEnlistar{
+    border: 1px solid #c608b0;
+    width:80%;
+    margin: 0 auto;
+}
+
+.tableEnlistar tr td{
+    border-bottom: 1px solid grey;
+    border:1px solid #c608b0;
+}
+
+.tableEnlistar thead{
+    background-color:#b200ff;
+    color:white
+
+}
+
+table{
+    border: 1px solid #c608b0;
+    text-align:center;
+}
+form{
+    text-align:center;
+}
+
+table tr td {
+    border:1px solid #c608b0;
+}
